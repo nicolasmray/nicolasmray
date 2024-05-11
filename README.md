@@ -20,20 +20,21 @@ Just arrived in Denmark and eager to dive into student life while gaining valuab
 
 PROJECTS
 
-Full Stack Web Developer - Pink Panther						abr. 2024 - may. 2024
+Full Stack Web Developer - Pink Panther		
+
 Academic Experience. Henry Bootcamp
 
 Developed an e-commerce application for the sports apparel brand Pink Panther, based in Buenos Aires. This project involved building a comprehensive e-commerce platform, focusing on backend development, database management, user authentication, and payment integration with MercadoPago Pro Checkout.
 
 Key Responsibilities:
-Design and implement the backend structure, including database setup and CRUD operations.
-Integrate user authentication using Firebase.
-Create the shopping cart functionality from the frontend.
-Integrate MercadoPago Pro Checkout for payment processing.
+-Design and implement the backend structure, including database setup and CRUD operations.
+-Integrate user authentication using Firebase.
+-Create the shopping cart functionality from the frontend.
+-Integrate MercadoPago Pro Checkout for payment processing.
 
-Front: React, Redux, HTML, Tailwind CSS
-Back: Node.js, Express
-Database: PostgreSQL y Sequelize.
+-Front: React, Redux, HTML, Tailwind CSS
+-Back: Node.js, Express
+-Database: PostgreSQL y Sequelize.
 https://github.com/nicolasmray/Pinkpanther.BackEnd
 https://github.com/nicolasmray/pinkpantherfront
 

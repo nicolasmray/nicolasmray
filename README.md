@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas Ray</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
+Full Stack Developer specialized in Back-end, with a background in customer service, business, and finance. Proficient in Agile methodologies, Git, data structures, algorithms, and CSS frameworks. Experience in Front End, Back End development, and data architecture using JavaScript, SQL, React, Redux, Node, Express, Sequelize, and Tailwind. Advanced level of English.
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **nicolas.mray@gmail.com**

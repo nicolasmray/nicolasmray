@@ -25,20 +25,20 @@ Full Stack Web Developer - Pink Panther
 Developed an e-commerce application for the sports apparel brand Pink Panther, based in Buenos Aires. This project involved building a comprehensive e-commerce platform, focusing on backend development, database management, user authentication, and payment integration with MercadoPago Pro Checkout.
 
 Key Responsibilities:
--Design and implement the backend structure, including database setup and CRUD operations.
+- Design and implement the backend structure, including database setup and CRUD operations.
 
--Integrate user authentication using Firebase.
+- Integrate user authentication using Firebase.
 
--Create the shopping cart functionality from the frontend.
+- Create the shopping cart functionality from the frontend.
 
--Integrate MercadoPago Pro Checkout for payment processing.
+- Integrate MercadoPago Pro Checkout for payment processing.
 
 Technologies used:
--Front: React, Redux, HTML, Tailwind CSS
+- Front: React, Redux, HTML, Tailwind CSS
 
--Back: Node.js, Express
+- Back: Node.js, Express
 
--Database: PostgreSQL y Sequelize.
+- Database: PostgreSQL y Sequelize.
 
 https://github.com/nicolasmray/Pinkpanther.BackEnd
 

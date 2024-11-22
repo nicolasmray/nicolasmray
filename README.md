@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Argentina, currently living in Denmark</h3>
 
 Full Stack Developer passionate about Back-end, with a background in customer experience, business, and finance. Proficient in Git, data structures, algorithms, and CSS frameworks. Experience in Front End, Back End development, and data architecture using JavaScript, C#, SQL, React, Redux, Node, Express, Sequelize, and Tailwind. Advanced level of English. Italian Passport (EU Citizenship). 
-Just arrived in Denmark and eager to dive into student life while gaining valuable work experience! Currently seeking a job in tech!
+Living in Denmark and eager to dive into student life while gaining valuable work experience! Currently seeking a job in tech!
 
 - 🌱 I’m currently learning **JavaScript** and **C#**
 

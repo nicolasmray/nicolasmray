@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nicolas Ray</h1>
 <h3 align="center">A passionate developer from Argentina, currently living in Denmark</h3>
 
-Full Stack Developer specialized in Back-end, with a background in customer service, business, and finance. Proficient in Agile methodologies, Git, data structures, algorithms, and CSS frameworks. Experience in Front End, Back End development, and data architecture using JavaScript, SQL, React, Redux, Node, Express, Sequelize, and Tailwind. Advanced level of English and Italian Passport (EU Citizenship). 
-Just arrived in Denmark and eager to dive into student life while gaining valuable work experience! Currently seeking a studiejob in tech!
+Full Stack Developer passionate about Back-end, with a background in customer experience, business, and finance. Proficient in Git, data structures, algorithms, and CSS frameworks. Experience in Front End, Back End development, and data architecture using JavaScript, C#, SQL, React, Redux, Node, Express, Sequelize, and Tailwind. Advanced level of English. Italian Passport (EU Citizenship). 
+Just arrived in Denmark and eager to dive into student life while gaining valuable work experience! Currently seeking a job in tech!
 
-- 🌱 I’m currently learning **JavaScript** and **Python**
+- 🌱 I’m currently learning **JavaScript** and **C#**
 
 - 📫 How to reach me **nicolas.mray@gmail.com**
   
-- ☎️ How to reach me **+54 9 11 4936 4967**
+- ☎️ How to reach me **+45 91761992**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
